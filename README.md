@@ -1,6 +1,6 @@
 # Hi, I'm Ashwani Yadav 👋
 
-**DevOps Engineer | AWS Certified Solutions Architect – Associate**
+**Cloud & DevOps Engineer | AWS Certified Solutions Architect – Associate**
 📍 Noida, India · 3+ years in cloud operations, CI/CD and 24x7 production support
 
 I keep production running, automate the repetitive work, and keep cloud bills under control.
